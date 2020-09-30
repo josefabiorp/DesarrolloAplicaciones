@@ -1,0 +1,272 @@
+/*
+HTML TAGS
+*/
+body{
+margin: 0;
+padding: 0;
+font-family: 'Catamaran';
+}
+
+
+header{
+
+width:100%;
+
+
+}
+footer{
+    width: 100%;
+    padding: 5em 0 5em;
+    background:url(../images/05.png) ;
+    text-align: center;
+    }
+    
+
+
+.secondary-title{
+font-weight: 900;
+font-size: 2em;
+text-align: center;
+
+}
+.top-bar{
+    width: 100%;
+    padding:2em 2em 0em ;
+    background:#2b2b2b ;
+}
+.logo{
+float: left;
+margin: -1em 0 2em;
+
+
+
+}
+
+.top-nav-text{
+margin:0;
+padding:-8em;
+float: center;
+font-weight:900;
+color:#fff;
+}
+
+
+
+/*intro- section*/
+
+.intro-section{
+width: 100%;
+padding: 2em 2em 0;
+background:url(../images/07.jpg) ;
+background-size: cover;
+background-position: center bottom;
+
+}
+
+.intro-title{
+padding:.2em  .2em;
+
+color: #fff;
+font-weight: 900;
+font-size: 2em;
+text-align: center;
+
+  
+
+}
+
+.details-btn{
+
+    display: block;
+    margin: auto;
+    width: 8em;
+    padding: .5em;
+    background-color:#ff690f;
+    font-weight: 400;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+
+}
+
+/*ofer*/
+
+.ofer-section{
+padding:2em 2em ;
+background:#fff ;
+color: #000;
+text-align: center;
+
+}
+
+.ofer-intro{
+
+font-size: 1.8em;
+font-weight: 900;
+
+}
+
+.ofer-text{
+font-weight: 400;
+
+}
+
+
+
+/*shop*/
+.image1-section{
+
+    width: 100%;
+    padding: 24em 2em 0;
+    background:url(../images/01.png) ;
+    background-size: cover;
+    background-position:top ;
+
+
+
+}
+.shop-section{
+
+    width: 100%;
+    padding: 2em 2em 0;
+}
+.shop-text{
+    text-align: center;
+    font-weight: 400;
+}
+.shop-btn{
+    display: block;
+    margin: auto;
+    width: 8em;
+    padding: .5em;
+    background-color:#ff690f;
+    font-weight: 400;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+
+}
+
+.image2-section{
+
+    width: 100%;
+    padding: 24em 2em 0;
+    background:url(../images/02.png) ;
+    background-size: cover;
+    background-position:top ;
+}
+    .shop-section2{
+
+        width: 100%;
+        padding: 2em 2em 0;
+    }
+    .shop-text2{
+        text-align: center;
+        font-weight: 400;
+    }
+    .shop-btn2{
+        display: block;
+        margin: auto;
+        width: 8em;
+        padding: .5em;
+        background-color:#ff690f;
+        font-weight: 400;
+        text-align: center;
+        color: #fff;
+        text-decoration: none;
+    
+    }
+
+    .image3-section{
+
+        width: 100%;
+        padding: 24em 2em 0;
+        background:url(../images/03.png) ;
+        background-size: cover;
+        background-position:top ;
+    }
+        .shop-section3{
+    
+            width: 100%;
+            padding: 2em 2em 0;
+        }
+        .shop-text3{
+            text-align: center;
+            font-weight: 400;
+        }
+        .shop-btn3{
+            display: block;
+            margin: auto;
+            width: 8em;
+            padding: .5em;
+            background-color:#ff690f;
+            font-weight: 400;
+            text-align: center;
+            color: #fff;
+            text-decoration: none;
+        
+        }
+
+        .image-section{
+            width: 100%;
+            padding: 40em 2em 0;
+            background:url(../images/06.png) ;
+            background-size: cover;
+            background-position: center bottom;
+            
+            }
+
+
+            .datos-section{
+
+                padding:0em 0em ;
+                background:#fff ;
+                color:#ff690f;
+                text-align: center;
+                font-weight: 900;
+                
+            }
+
+            .info-section{
+                padding:0em 0em ;
+                background:#fff ;
+                color:#000;
+                text-align: center;
+                font-weight: 400;
+                
+
+            }
+
+
+            .testimonial-section{
+
+                width: 100%;
+                padding:2em 1em ;
+                background:url(../images/04.png) ;
+                background-size: 110%;
+                background-position: center bottom;
+
+            }
+          
+            /*footer*/
+
+            .bottom-nav{
+                margin: 0;
+                padding:0;
+            }
+
+
+            .bottom-nav-item{
+                display: inline-block;
+                margin: 1em 2em;
+            }
+            .footer-link{
+                font-size: 1.5em;
+                color:#fff;
+
+            }
+
+            .footer-link:hover{
+                color:red;
+            }
+         
